@@ -36,6 +36,7 @@ public class Reader extends JFrame{
 		add(b10);add(to);add(doriv);add(plus);
 		add(plusminus);add(CE);add(CC);
 		
+		
 		pl = false;
 		mi = false;
 		mn = false;
